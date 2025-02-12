@@ -17,7 +17,7 @@ The assimilation framework leverages relationships among key Icepack variables (
 
 - Python (NumPy, Matplotlib, xarray, SciPy, etc.)
 - DART (Data Assimilation Research Testbed)
-- NCAR Derecho Supercomputer access (for running large-scale experiments)
+- Computing access (for running large-scale ensemble experiments)
 
 ## Installation
 
