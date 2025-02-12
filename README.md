@@ -24,7 +24,7 @@ The assimilation framework leverages relationships among key Icepack variables (
 1. Clone the repository:
    ```bash
    git clone https://github.com/jrotondo-uw/cice-scm-albedo-da.git
-   cd sea-ice-dart
+   cd cice-scm-albedo-da.git
    ```
 2. Install necessary Python dependencies:
    ```bash
