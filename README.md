@@ -23,7 +23,7 @@ The assimilation framework leverages relationships among key Icepack variables (
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sea-ice-dart.git
+   git clone https://github.com/jrotondo-uw/cice-scm-albedo-da.git
    cd sea-ice-dart
    ```
 2. Install necessary Python dependencies:
