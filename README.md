@@ -4,7 +4,7 @@ This repository contains scripts and workflows for assimilating sea ice data usi
 
 ## Project Overview
 
-The assimilation framework leverages relationships among key Icepack variables (SIC, SIT, SIAL) to investigate their impact on sea ice prediction. Initial deep learning approaches considered physically informed neural networks (PINNs), but the current methodology is based on ensemble data assimilation techniques.
+The assimilation framework leverages relationships among key Icepack variables (SIC, SIT, SIAL) to investigate their impact on sea ice prediction. The current methodology is based on ensemble data assimilation techniques using the Data Assimilation Research Testbed (DART) provided by the National Center for Atmospheric Research (NCAR).
 
 ## Key Components
 
