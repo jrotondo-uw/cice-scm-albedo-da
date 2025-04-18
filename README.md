@@ -1,6 +1,6 @@
 # Sea Ice Data Assimilation with DART
 
-This repository contains scripts and workflows for assimilating sea ice data using the Data Assimilation Research Testbed (DART). The focus of this project is on comparing the assimilation of broadband albedo (SIAL) with traditional sea ice concentration (SIC) and sea ice thickness (SIT) within a bounded data assimilation (DA) framework. The implementation includes adaptive inflation techniques to improve state estimates.
+This repository contains scripts and workflows for assimilating sea ice data using the Data Assimilation Research Testbed (DART). The focus of this project is on comparing the assimilation of narrow-band sea ice albedo (SIAL) with traditional sea ice concentration (SIC) and sea ice thickness (SIT) within a bounded data assimilation (DA) framework. The implementation includes adaptive inflation techniques to improve state estimates.
 
 ## Project Overview
 
